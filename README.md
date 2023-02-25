@@ -1,6 +1,6 @@
 ### Hi there 👋🏾
 
-I'm a software engineer and student currently pursuing a 4-year MEng in Computing, specializing in Artificial Intelligence and Machine Learning at Imperial College London.
+I'm currently a software engineer at a london-based fintech, and I studied computing (ai + ml) @ imperial college london.
 
 I enjoy working in diverse, multidisciplinary teams to solve challenging problems.
 
